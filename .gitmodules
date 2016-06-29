@@ -1,3 +1,6 @@
 [submodule "java"]
 	path = todomvc
 	url = https://github.com/yadavsagar/todomvc
+[submodule "cool/java"]
+	path = cool/java
+	url = https://github.com/yadavsagar/todomvc
